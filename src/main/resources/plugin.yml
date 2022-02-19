@@ -1,0 +1,6 @@
+name: PowitanieSerwerowe
+version: '${project.version}'
+main: kol19pl.powitanieserwerowe.PowitanieSerwerowe
+api-version: 1.18
+authors: [ kol19pl ]
+description: Skrypt powitalny
